@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/second-eco-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/second-eco-app/static/js/main.037950e9.chunk.js",
-    "main.js.map": "/second-eco-app/static/js/main.037950e9.chunk.js.map",
+    "main.js": "/second-eco-app/static/js/main.e7106642.chunk.js",
+    "main.js.map": "/second-eco-app/static/js/main.e7106642.chunk.js.map",
     "runtime-main.js": "/second-eco-app/static/js/runtime-main.a7764f93.js",
     "runtime-main.js.map": "/second-eco-app/static/js/runtime-main.a7764f93.js.map",
     "static/js/2.4192a6e2.chunk.js": "/second-eco-app/static/js/2.4192a6e2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a7764f93.js",
     "static/js/2.4192a6e2.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.037950e9.chunk.js"
+    "static/js/main.e7106642.chunk.js"
   ]
 }
