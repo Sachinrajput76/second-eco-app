@@ -35,7 +35,7 @@ class Navbar extends Component {
     const { classes } = this.props
     return (
       <div className={classes.root}>
-        <AppBar position='static' color={isDarkMode ? 'default' : 'primary'}>
+        <AppBar position='static' color={isDarkMode ? 'primary' : 'default'}>
           <ToolBar>
             <IconButton className={classes.menuButton} color='inherit'>
               <span>
@@ -51,7 +51,7 @@ class Navbar extends Component {
               </span>
             </IconButton>
             <Typography className={classes.title} variant='h6' color='inherit'>
-              App title
+              SHOP.IO
             </Typography>
             <Switch onClick={changeTheme} />
             <div className={classes.grow} />
